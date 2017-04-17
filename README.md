@@ -1,2 +1,2 @@
 # hello-world
-just learning github and stuff
+Hi, i'm learning Github for programming projects and such. 
